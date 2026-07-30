@@ -1,6 +1,6 @@
 <h1>domino_exporter</h1>
-A cross-platform utility for exporting Domino statistics to Prometheus. Works on Windows and Linux.<br/>
-Tested:<br/>
+A cross-platform utility for exporting HCL Domino statistics to Prometheus. Works on Windows and Linux.<br/>
+Tested on:<br/>
 1 - Windows Server 2019-2025<br/>
 2 - Linux RHEL (requires glibc 2.34)<br/>
 3 - Linux DEB (requires glibc 2.34)
